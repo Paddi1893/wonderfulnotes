@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wonderfulnotes/static/css/main.0529b3c1.css",
+    "main.js": "/wonderfulnotes/static/js/main.28fea650.js",
+    "index.html": "/wonderfulnotes/index.html",
+    "main.0529b3c1.css.map": "/wonderfulnotes/static/css/main.0529b3c1.css.map",
+    "main.28fea650.js.map": "/wonderfulnotes/static/js/main.28fea650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0529b3c1.css",
+    "static/js/main.28fea650.js"
+  ]
+}
